@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andersonjedid
 - 👀 I’m interested in videogames
 - 🌱 I’m currently learning videogames
-- 💞️ I’m looking to collaborate on aliens
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me everywhere
 
 <!---
